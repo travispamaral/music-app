@@ -5,6 +5,7 @@
   >
     <p>This design was from Dibbble user <a href="https://dribbble.com/ema_ike">Emmanuel Ikechukwu</a>, the design can be found <a href="https://dribbble.com/shots/11019630-Music-Player-Web-Application/attachments/2613913?mode=media">here</a>.</p>
     <p>The goal of this exercise was to create a web prototype as accurate to the design as possible with no specs or design files. Future plans include connecting it to a third party music api like Spotify.</p>
+    <p>This app is built with Vue, source code can be found <a href="https://github.com/travispamaral/music-app">here</a>.</p>
     <button
       class="button-primary"
       @click="closeBanner"
